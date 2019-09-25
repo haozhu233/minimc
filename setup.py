@@ -11,7 +11,7 @@ with open(path.join(here, "README.md"), encoding="utf-8") as buff:
 
 setup(
     name="minimc",
-    version="0.0.1",
+    version="0.0.1.1",
     description="Just a little MCMC",
     long_description=long_description,
     author="Colin Carroll",
